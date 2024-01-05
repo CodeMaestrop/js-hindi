@@ -16,5 +16,5 @@ let isLoggedIn=false
 //undifined
 //symbol=unique
 console.log(typeof "Tanisha");
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
