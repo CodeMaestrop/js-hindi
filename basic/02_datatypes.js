@@ -13,7 +13,7 @@ let isLoggedIn=false
 //string=""
 //boolean=true/false
 //null=standalone value
-//undifined
+//undefined
 //symbol=unique
 console.log(typeof "Tanisha");
 console.log(typeof null);//object
